@@ -26,7 +26,7 @@ public class JavaBasics {
                 System.out.println(a % b);
                 break;
             default:
-                System.out.println("wrong operator because My calculator is advance");
+                System.out.println("wrong operator because My calculator is not advance");
         }
         sc.close();
     }
